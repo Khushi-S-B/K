@@ -1,0 +1,4 @@
+Eno	Name	Sal	Gender
+1	a	5000	F
+2	b	2000	M
+3	c	1000	M

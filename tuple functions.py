@@ -1,0 +1,6 @@
+x=(4,3,6,8,9,8,8)
+print(len(x))
+print(max(x))
+print(min(x))
+y=sorted(x)
+print(y)
